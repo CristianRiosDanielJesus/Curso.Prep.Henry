@@ -222,7 +222,7 @@ function retornarPerimetro(lado){
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
-  let area = base * altura / 2;
+  let area = (base * altura) / 2;
   return area;
 
 }
